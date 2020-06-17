@@ -1,0 +1,107 @@
+{
+  "id": "1586416",
+  "name": "auto_parts_mall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8776631",
+      "name": "view",
+      "font_class": "icon-test",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8776711",
+      "name": "record",
+      "font_class": "icon-test1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "8776716",
+      "name": "credits",
+      "font_class": "icon-test2",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8776822",
+      "name": "cart_empty",
+      "font_class": "icon-test3",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "8776842",
+      "name": "search",
+      "font_class": "icon-test4",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8776873",
+      "name": "setting",
+      "font_class": "icon-test5",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "8776987",
+      "name": "notification",
+      "font_class": "icon-test6",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "8776998",
+      "name": "phonecall",
+      "font_class": "icon-test7",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "8777039",
+      "name": "unlock",
+      "font_class": "icon-test8",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "8777131",
+      "name": "calculator",
+      "font_class": "icon-test9",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "8777165",
+      "name": "image",
+      "font_class": "icon-test10",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "8777250",
+      "name": "user",
+      "font_class": "icon-test11",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8777252",
+      "name": "sub_account",
+      "font_class": "icon-test12",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "8777371",
+      "name": "international",
+      "font_class": "icon-test13",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
