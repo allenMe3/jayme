@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "core-js": "^3.4.3",
     "element-ui": "^2.13.1",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^8.2.0",
     "hls.js": "^0.13.2",
     "mescroll.js": "^1.4.2",
     "mint-ui": "^2.2.13",
